@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(test:*)",
+      "WebSearch",
+      "Bash(npx create-expo-app@latest:*)",
+      "Bash(dir:*)",
+      "Bash(cmd /c:*)",
+      "Bash(echo:*)",
+      "Bash(cmd.exe /c:*)",
+      "Bash(node --version:*)",
+      "Bash(node -e:*)",
+      "Bash(npx expo install:*)",
+      "Bash(npm install:*)",
+      "Bash(cd:*)"
+    ]
+  }
+}
